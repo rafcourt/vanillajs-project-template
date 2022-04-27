@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rafcourt/vanillajs-project-template/issues"
   },
-  "homepage": "https://github.com/rafcourt/vanillajs-project-template#readme"
+  "homepage": "https://github.com/rafcourt/vanillajs-project-template#readme",
+  "devDependencies": {
+    "eslint": "^8.14.0"
+  }
 }
