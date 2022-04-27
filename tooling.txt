@@ -1,0 +1,13 @@
+https://sass-lang.com/guide
+https://tailwindcss.com/docs/installation
+https://webpack.js.org/
+https://www.typescriptlang.org/
+https://jestjs.io/
+https://babeljs.io/
+https://vitejs.dev/
+https://sentry.io/
+https://www.cypress.io/
+https://storybook.js.org/
+https://rollupjs.org/guide/en/
+https://www.npmjs.com/package/husky
+https://eslint.org/
